@@ -127,7 +127,7 @@ input[type=submit]{
 }
 
 .odin{
-    width: 40%;
+    width: 35%;
     justify-self: end;
     grid-column: 1/2;
 }
